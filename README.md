@@ -26,12 +26,11 @@ NPM version = 10.5.0
     * Node.js
     * Express.js
     * Mongoose (or alternative database library)
-    * ... (List other relevant server-side libraries)
+      
 * **Client:**
     * React
     * Redux (or alternative state management library)
     * Axios
-    * ... (List other relevant client-side libraries)
 
 ## Installation
 
