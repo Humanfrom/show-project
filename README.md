@@ -1,7 +1,4 @@
-Sure, I can create the README.md file in English markdown format. Here's the content:
-
-## Project Name (Replace with your project name)
-
+## MERN + RTK Project
 ## Table of Contents
 
 * [About the Project](#about-the-project)
