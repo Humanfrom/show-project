@@ -1,0 +1,14 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "",
+    "secretKey": "secret-key",
+    "tgBotToken": "",
+    "frontURL": "http://127.0.0.1:3000",
+    "mailServer": {
+        "service": "gmail",
+        "auth": {
+            "user": "your_email@gmail.com",
+            "pass": "your_password"
+        }
+    }
+}
