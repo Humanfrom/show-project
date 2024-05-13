@@ -1,4 +1,7 @@
 ## MERN + RTK Project
+
+This project is under development. This repository is a slice of one of the development stages to demonstrate code and skills.
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
